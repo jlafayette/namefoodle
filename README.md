@@ -1,3 +1,3 @@
 # namefoodle
 
-Generate Gnomish names.
+Gnomish name generation.
